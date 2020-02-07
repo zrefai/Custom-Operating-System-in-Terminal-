@@ -1,13 +1,3 @@
-/*******
- * Low-level file system definitions
- *
- * DO NOT CHANGE THIS DATA STRUCTURE
- *
- * CS 3113
- *
- * 
- */
-
 // Only evaluate these definitions once, even if included multiple times
 #ifndef FILE_STRUCTS_H
 #define FILE_STRUCTS_H
