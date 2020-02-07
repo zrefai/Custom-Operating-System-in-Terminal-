@@ -1,10 +1,3 @@
-/**
-Make a directory in the OU File System.
-
-CS3113
-
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include "oufs_lib.h"
